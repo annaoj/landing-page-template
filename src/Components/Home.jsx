@@ -9,7 +9,7 @@ const Home = () => {
                 name='Grow your business with' 
                 imgsrc={home} 
                 isCompName={true}
-                compName="My Company Name"
+                compName="The best Company"
                 visit='/services' 
                 btnname="Get Started" 
             />
