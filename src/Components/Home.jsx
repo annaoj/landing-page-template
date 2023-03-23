@@ -6,10 +6,10 @@ const Home = () => {
     return (
         <>
             <Common 
-                name='Grow your business with' 
+                name='Example reactJS template' 
                 imgsrc={home} 
                 isCompName={true}
-                compName="The best Company"
+                compName="to deploy on AWS Amplify "
                 visit='/services' 
                 btnname="Get Started" 
             />
